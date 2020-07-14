@@ -1,8 +1,9 @@
 # 👋 Hi, how are you? 
 
-I enjoy making web apps, usually made some fun side project on my free time and share it here.
+I love making web apps, making fun projects in my free time and share it here.<br/>
+Have a nice day!
 
-## some links
-- [twitter](https://twitter.com/sozonome)
-- [projects showcase](https://sznm.dev)
-- [personal website](https://agustinusnathaniel.com)
+## links
+[**twitter**](https://twitter.com/sozonome)<br/>
+[**projects showcase**](https://sznm.dev)<br/>
+[**personal website**](https://agustinusnathaniel.com)<br/>
