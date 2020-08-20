@@ -1,6 +1,6 @@
 # 👋 Hi, how are you? 
 
-I love making web apps, making fun projects in my free time and share it here.<br/>
+I make fun projects in my free time and share it here.<br/>
 Have a nice day!
 
 ## links
