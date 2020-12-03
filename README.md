@@ -6,7 +6,9 @@ Whether to explore more around React and its frameworks (Gatsby, Next.js), Ionic
 
 I like exploring useful and fun tech products (surfing around ProductHunt), traveling, and doing some visual arts (graphic design, videography, photography).
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sozonome&theme=dracula&layout=compact" alt="Most used language" title="Most used language" />
+![sozonome's github stats](https://github-readme-stats.vercel.app/api?username=sozonome&show_icons=true&theme=dark)
+
+![sozonome's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=sozonome&theme=dracula&layout=compact)
 
 <p style="margin: 20px 0">
   <a href="https://sznm.dev" style="margin-right:20px"><img src='/assets/icons/browser-tabs.svg' alt="me-sozonome" title="me-sozonome" height='40'/></a>
