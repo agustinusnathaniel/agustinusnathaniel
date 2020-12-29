@@ -6,10 +6,6 @@ Whether to explore more around React and its frameworks (Gatsby, Next.js), Ionic
 
 I like exploring useful and fun tech products (surfing around ProductHunt), traveling, and doing some visual arts (graphic design, videography, photography).
 
-![sozonome's github stats](https://github-readme-stats.vercel.app/api?username=sozonome&show_icons=true&theme=dark)
-
-![sozonome's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=sozonome&theme=dracula&layout=compact)
-
 ## Links
 | Sites | Social Media |
 |---|---|
