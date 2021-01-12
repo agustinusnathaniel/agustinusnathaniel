@@ -1,6 +1,6 @@
 # 👋 Hi, how are you? 
 
-I'm currently working as a Junior Frontend Engineer. Most of the time I work with TypeScript and React.<br/>
+I'm currently working as a Frontend Engineer. Most of the time I work with TypeScript and React.<br/>
 I make fun projects in my free time and share it here.
 Whether to explore more around React and its frameworks (Gatsby, Next.js), Ionic, or trying out Svelte and Vue.
 
