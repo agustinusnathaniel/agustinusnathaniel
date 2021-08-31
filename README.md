@@ -7,3 +7,9 @@ currently working as a Frontend Engineer. Most of the time I work with React and
 visit my:<br/>
 🌐 [dev site](https://sznm.dev)<br/>
 🦜 [twitter](https://twitter.com/sozonome)
+
+---
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
