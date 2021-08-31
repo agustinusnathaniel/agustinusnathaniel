@@ -10,6 +10,8 @@ visit my:<br/>
 
 ---
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#30](https://github.com/sozonome/sznm.dev/pull/30) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
 2. 🗣 Commented on [#30](https://github.com/sozonome/sznm.dev/issues/30) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
