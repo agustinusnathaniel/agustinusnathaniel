@@ -16,9 +16,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/sozonome/spoker/pull/22) in [sozonome/spoker](https://github.com/sozonome/spoker)
-2. 🎉 Merged PR [#6](https://github.com/sozonome/agustinusnathaniel.com/pull/6) in [sozonome/agustinusnathaniel.com](https://github.com/sozonome/agustinusnathaniel.com)
-3. 🎉 Merged PR [#15](https://github.com/sozonome/snowpack-react-chakra-starter/pull/15) in [sozonome/snowpack-react-chakra-starter](https://github.com/sozonome/snowpack-react-chakra-starter)
-4. 🎉 Merged PR [#22](https://github.com/sozonome/vite-react-chakra-starter/pull/22) in [sozonome/vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter)
-5. 🎉 Merged PR [#24](https://github.com/sozonome/pub-apis/pull/24) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
+1. 🎉 Merged PR [#2](https://github.com/sozonome/eslint-config-sznm/pull/2) in [sozonome/eslint-config-sznm](https://github.com/sozonome/eslint-config-sznm)
+2. 💪 Opened PR [#2](https://github.com/sozonome/eslint-config-sznm/pull/2) in [sozonome/eslint-config-sznm](https://github.com/sozonome/eslint-config-sznm)
+3. 🎉 Merged PR [#22](https://github.com/sozonome/spoker/pull/22) in [sozonome/spoker](https://github.com/sozonome/spoker)
+4. 🎉 Merged PR [#6](https://github.com/sozonome/agustinusnathaniel.com/pull/6) in [sozonome/agustinusnathaniel.com](https://github.com/sozonome/agustinusnathaniel.com)
+5. 🎉 Merged PR [#15](https://github.com/sozonome/snowpack-react-chakra-starter/pull/15) in [sozonome/snowpack-react-chakra-starter](https://github.com/sozonome/snowpack-react-chakra-starter)
 <!--END_SECTION:activity-->
