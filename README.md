@@ -16,9 +16,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/sozonome/sznm.dev/issues/39) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-2. 🗣 Commented on [#38](https://github.com/sozonome/sznm.dev/issues/38) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-3. 🗣 Commented on [#37](https://github.com/sozonome/sznm.dev/issues/37) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-4. 🗣 Commented on [#36](https://github.com/sozonome/sznm.dev/issues/36) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-5. 🗣 Commented on [#35](https://github.com/sozonome/sznm.dev/issues/35) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+1. 🎉 Merged PR [#24](https://github.com/sozonome/vite-react-chakra-starter/pull/24) in [sozonome/vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter)
+2. 🎉 Merged PR [#24](https://github.com/sozonome/spoker/pull/24) in [sozonome/spoker](https://github.com/sozonome/spoker)
+3. 🎉 Merged PR [#17](https://github.com/sozonome/snowpack-react-chakra-starter/pull/17) in [sozonome/snowpack-react-chakra-starter](https://github.com/sozonome/snowpack-react-chakra-starter)
+4. 🎉 Merged PR [#44](https://github.com/sozonome/nextchakra-starter/pull/44) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
+5. 🗣 Commented on [#39](https://github.com/sozonome/sznm.dev/issues/39) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
 <!--END_SECTION:activity-->
