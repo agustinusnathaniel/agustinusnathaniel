@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/sozonome/vite-react-chakra-starter/pull/25) in [sozonome/vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter)
-2. 🎉 Merged PR [#25](https://github.com/sozonome/spoker/pull/25) in [sozonome/spoker](https://github.com/sozonome/spoker)
-3. 🎉 Merged PR [#18](https://github.com/sozonome/snowpack-react-chakra-starter/pull/18) in [sozonome/snowpack-react-chakra-starter](https://github.com/sozonome/snowpack-react-chakra-starter)
-4. 🎉 Merged PR [#28](https://github.com/sozonome/pub-apis/pull/28) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
-5. 🎉 Merged PR [#46](https://github.com/sozonome/nextchakra-starter/pull/46) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
+1. 🎉 Merged PR [#45](https://github.com/sozonome/nextchakra-starter/pull/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
+2. 🗣 Commented on [#45](https://github.com/sozonome/nextchakra-starter/issues/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
+3. 🗣 Commented on [#45](https://github.com/sozonome/nextchakra-starter/issues/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
+4. 🎉 Merged PR [#25](https://github.com/sozonome/vite-react-chakra-starter/pull/25) in [sozonome/vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter)
+5. 🎉 Merged PR [#25](https://github.com/sozonome/spoker/pull/25) in [sozonome/spoker](https://github.com/sozonome/spoker)
 <!--END_SECTION:activity-->
