@@ -11,7 +11,7 @@ visit my:<br/>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=sozonome&color=orange)
+![](https://komarev.com/ghpvc/?username=sozonome&color=grey)
 ![](https://hit.yhype.me/github/profile?user_id=17046154)
 
 ### :zap: Recent Activity
