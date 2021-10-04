@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/sozonome/sznm.dev/pull/40) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-2. 🎉 Merged PR [#45](https://github.com/sozonome/nextchakra-starter/pull/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
-3. 🗣 Commented on [#45](https://github.com/sozonome/nextchakra-starter/issues/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
-4. 🗣 Commented on [#45](https://github.com/sozonome/nextchakra-starter/issues/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
-5. 🎉 Merged PR [#25](https://github.com/sozonome/vite-react-chakra-starter/pull/25) in [sozonome/vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter)
+1. 🎉 Merged PR [#47](https://github.com/sozonome/nextarter-chakra/pull/47) in [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra)
+2. 🎉 Merged PR [#7](https://github.com/sozonome/agustinusnathaniel.com/pull/7) in [sozonome/agustinusnathaniel.com](https://github.com/sozonome/agustinusnathaniel.com)
+3. 🎉 Merged PR [#40](https://github.com/sozonome/sznm.dev/pull/40) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+4. 🎉 Merged PR [#45](https://github.com/sozonome/nextchakra-starter/pull/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
+5. 🗣 Commented on [#45](https://github.com/sozonome/nextchakra-starter/issues/45) in [sozonome/nextchakra-starter](https://github.com/sozonome/nextchakra-starter)
 <!--END_SECTION:activity-->
