@@ -21,5 +21,5 @@ visit my:<br/>
 2. 🎉 Merged PR [#26](https://github.com/sozonome/spoker/pull/26) in [sozonome/spoker](https://github.com/sozonome/spoker)
 3. 🎉 Merged PR [#2](https://github.com/sozonome/nextarter-mui/pull/2) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
 4. 🎉 Merged PR [#47](https://github.com/sozonome/nextarter-chakra/pull/47) in [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra)
-5. 🎉 Merged PR [#7](https://github.com/sozonome/agustinusnathaniel.com/pull/7) in [sozonome/agustinusnathaniel.com](https://github.com/sozonome/agustinusnathaniel.com)
+5. 🎉 Merged PR [#40](https://github.com/sozonome/sznm.dev/pull/40) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
 <!--END_SECTION:activity-->
