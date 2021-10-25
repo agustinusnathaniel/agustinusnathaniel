@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/sozonome/pub-apis/pull/31) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
-2. 🎉 Merged PR [#51](https://github.com/sozonome/sznm.dev/pull/51) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-3. 💪 Opened PR [#51](https://github.com/sozonome/sznm.dev/pull/51) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-4. 🎉 Merged PR [#50](https://github.com/sozonome/sznm.dev/pull/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-5. 🗣 Commented on [#50](https://github.com/sozonome/sznm.dev/issues/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+1. 🎉 Merged PR [#15](https://github.com/sozonome/my-base/pull/15) in [sozonome/my-base](https://github.com/sozonome/my-base)
+2. 💪 Opened PR [#15](https://github.com/sozonome/my-base/pull/15) in [sozonome/my-base](https://github.com/sozonome/my-base)
+3. 🎉 Merged PR [#31](https://github.com/sozonome/pub-apis/pull/31) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
+4. 🗣 Commented on [#31](https://github.com/sozonome/pub-apis/issues/31) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
+5. 💪 Opened PR [#31](https://github.com/sozonome/pub-apis/pull/31) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
 <!--END_SECTION:activity-->
