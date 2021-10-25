@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/sozonome/sznm.dev/pull/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-2. 🗣 Commented on [#50](https://github.com/sozonome/sznm.dev/issues/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-3. 💪 Opened PR [#50](https://github.com/sozonome/sznm.dev/pull/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-4. 🎉 Merged PR [#50](https://github.com/sozonome/nextarter-chakra/pull/50) in [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra)
-5. 🎉 Merged PR [#4](https://github.com/sozonome/nextarter-daisy/pull/4) in [sozonome/nextarter-daisy](https://github.com/sozonome/nextarter-daisy)
+1. 🎉 Merged PR [#51](https://github.com/sozonome/sznm.dev/pull/51) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+2. 💪 Opened PR [#51](https://github.com/sozonome/sznm.dev/pull/51) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+3. 🎉 Merged PR [#50](https://github.com/sozonome/sznm.dev/pull/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+4. 🗣 Commented on [#50](https://github.com/sozonome/sznm.dev/issues/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+5. 💪 Opened PR [#50](https://github.com/sozonome/sznm.dev/pull/50) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
 <!--END_SECTION:activity-->
