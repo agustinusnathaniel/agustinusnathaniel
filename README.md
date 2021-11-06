@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/sozonome/nextarter-mui/pull/5) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
-2. 🎉 Merged PR [#5](https://github.com/sozonome/nextarter-daisy/pull/5) in [sozonome/nextarter-daisy](https://github.com/sozonome/nextarter-daisy)
-3. 💪 Opened PR [#5](https://github.com/sozonome/nextarter-daisy/pull/5) in [sozonome/nextarter-daisy](https://github.com/sozonome/nextarter-daisy)
-4. 🎉 Merged PR [#51](https://github.com/sozonome/nextarter-chakra/pull/51) in [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra)
-5. 💪 Opened PR [#51](https://github.com/sozonome/nextarter-chakra/pull/51) in [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra)
+1. 🎉 Merged PR [#5](https://github.com/sozonome/nextarter-mui/pull/5) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
+2. 💪 Opened PR [#5](https://github.com/sozonome/nextarter-mui/pull/5) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
+3. 🎉 Merged PR [#5](https://github.com/sozonome/nextarter-daisy/pull/5) in [sozonome/nextarter-daisy](https://github.com/sozonome/nextarter-daisy)
+4. 💪 Opened PR [#5](https://github.com/sozonome/nextarter-daisy/pull/5) in [sozonome/nextarter-daisy](https://github.com/sozonome/nextarter-daisy)
+5. 🎉 Merged PR [#51](https://github.com/sozonome/nextarter-chakra/pull/51) in [sozonome/nextarter-chakra](https://github.com/sozonome/nextarter-chakra)
 <!--END_SECTION:activity-->
