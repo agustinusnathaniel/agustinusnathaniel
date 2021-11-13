@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/sozonome/muvees/pull/17) in [sozonome/muvees](https://github.com/sozonome/muvees)
-2. 💪 Opened PR [#17](https://github.com/sozonome/muvees/pull/17) in [sozonome/muvees](https://github.com/sozonome/muvees)
-3. 🎉 Merged PR [#41](https://github.com/sozonome/covid-19-data/pull/41) in [sozonome/covid-19-data](https://github.com/sozonome/covid-19-data)
-4. 💪 Opened PR [#41](https://github.com/sozonome/covid-19-data/pull/41) in [sozonome/covid-19-data](https://github.com/sozonome/covid-19-data)
-5. 🎉 Merged PR [#33](https://github.com/sozonome/pub-apis/pull/33) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
+1. 🎉 Merged PR [#17](https://github.com/sozonome/my-base/pull/17) in [sozonome/my-base](https://github.com/sozonome/my-base)
+2. 💪 Opened PR [#17](https://github.com/sozonome/my-base/pull/17) in [sozonome/my-base](https://github.com/sozonome/my-base)
+3. 🎉 Merged PR [#17](https://github.com/sozonome/muvees/pull/17) in [sozonome/muvees](https://github.com/sozonome/muvees)
+4. 💪 Opened PR [#17](https://github.com/sozonome/muvees/pull/17) in [sozonome/muvees](https://github.com/sozonome/muvees)
+5. 🎉 Merged PR [#41](https://github.com/sozonome/covid-19-data/pull/41) in [sozonome/covid-19-data](https://github.com/sozonome/covid-19-data)
 <!--END_SECTION:activity-->
