@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/kodingdotninja/use-toggle/issues/2) in [kodingdotninja/use-toggle](https://github.com/kodingdotninja/use-toggle)
-2. 🗣 Commented on [#4922](https://github.com/chakra-ui/chakra-ui/issues/4922) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-3. 🎉 Merged PR [#6](https://github.com/sozonome/nextarter-mui/pull/6) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
-4. 🎉 Merged PR [#17](https://github.com/sozonome/my-base/pull/17) in [sozonome/my-base](https://github.com/sozonome/my-base)
-5. 💪 Opened PR [#17](https://github.com/sozonome/my-base/pull/17) in [sozonome/my-base](https://github.com/sozonome/my-base)
+1. 🎉 Merged PR [#55](https://github.com/sozonome/sznm.dev/pull/55) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+2. 💪 Opened PR [#55](https://github.com/sozonome/sznm.dev/pull/55) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+3. ❗️ Opened issue [#2](https://github.com/kodingdotninja/use-toggle/issues/2) in [kodingdotninja/use-toggle](https://github.com/kodingdotninja/use-toggle)
+4. 🗣 Commented on [#4922](https://github.com/chakra-ui/chakra-ui/issues/4922) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+5. 🎉 Merged PR [#6](https://github.com/sozonome/nextarter-mui/pull/6) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
 <!--END_SECTION:activity-->
