@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/sozonome/my-base/pull/18) in [sozonome/my-base](https://github.com/sozonome/my-base)
-2. 🗣 Commented on [#18](https://github.com/sozonome/my-base/issues/18) in [sozonome/my-base](https://github.com/sozonome/my-base)
-3. 💪 Opened PR [#18](https://github.com/sozonome/my-base/pull/18) in [sozonome/my-base](https://github.com/sozonome/my-base)
-4. 🎉 Merged PR [#56](https://github.com/sozonome/sznm.dev/pull/56) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
-5. 💪 Opened PR [#56](https://github.com/sozonome/sznm.dev/pull/56) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+1. 🎉 Merged PR [#28](https://github.com/sozonome/vite-react-chakra-starter/pull/28) in [sozonome/vite-react-chakra-starter](https://github.com/sozonome/vite-react-chakra-starter)
+2. 🎉 Merged PR [#30](https://github.com/sozonome/spoker/pull/30) in [sozonome/spoker](https://github.com/sozonome/spoker)
+3. 🎉 Merged PR [#34](https://github.com/sozonome/pub-apis/pull/34) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
+4. 🎉 Merged PR [#7](https://github.com/sozonome/nextarter-mui/pull/7) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
+5. 🎉 Merged PR [#6](https://github.com/sozonome/nextarter-daisy/pull/6) in [sozonome/nextarter-daisy](https://github.com/sozonome/nextarter-daisy)
 <!--END_SECTION:activity-->
