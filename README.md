@@ -17,9 +17,9 @@ visit my:<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/sozonome/muvees/issues/20) in [sozonome/muvees](https://github.com/sozonome/muvees)
-2. 💪 Opened PR [#20](https://github.com/sozonome/muvees/pull/20) in [sozonome/muvees](https://github.com/sozonome/muvees)
-3. 💪 Opened PR [#3](https://github.com/sozonome/mixtarter-chakra/pull/3) in [sozonome/mixtarter-chakra](https://github.com/sozonome/mixtarter-chakra)
-4. 🎉 Merged PR [#35](https://github.com/sozonome/pub-apis/pull/35) in [sozonome/pub-apis](https://github.com/sozonome/pub-apis)
-5. 🎉 Merged PR [#8](https://github.com/sozonome/nextarter-mui/pull/8) in [sozonome/nextarter-mui](https://github.com/sozonome/nextarter-mui)
+1. 🗣 Commented on [#60](https://github.com/sozonome/sznm.dev/issues/60) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+2. 🎉 Merged PR [#60](https://github.com/sozonome/sznm.dev/pull/60) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+3. 💪 Opened PR [#60](https://github.com/sozonome/sznm.dev/pull/60) in [sozonome/sznm.dev](https://github.com/sozonome/sznm.dev)
+4. 🗣 Commented on [#20](https://github.com/sozonome/muvees/issues/20) in [sozonome/muvees](https://github.com/sozonome/muvees)
+5. 💪 Opened PR [#20](https://github.com/sozonome/muvees/pull/20) in [sozonome/muvees](https://github.com/sozonome/muvees)
 <!--END_SECTION:activity-->
