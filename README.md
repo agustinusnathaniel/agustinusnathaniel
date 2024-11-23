@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-🌐 [dev site](https://sznm.dev) | 🦜 [twitter](https://twitter.com/sozonome)
+🌐 [site](https://agustinusnathaniel.com) | 🦜 [twitter](https://twitter.com/agstnsnathaniel)
 
 ---
 
