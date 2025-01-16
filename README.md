@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-🌐 [site](https://agustinusnathaniel.com) | 🦜 [twitter](https://twitter.com/agstnsnathaniel)
+Check out: 🌐 [site](https://agustinusnathaniel.com) | 🦜 [X/Twitter](https://x.com/agstnsnathaniel)
 
 ---
 
